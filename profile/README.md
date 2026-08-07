@@ -1,15 +1,15 @@
 # Nooklin
 
-Free and open-source Android apps for the self-hosting and tech enthusiast community. No Google Play Services dependencies, no telemetry, no ads.
+Free and privacy focused open-source Android apps for the self-hosting and tech enthusiast community. No Google Play Services dependencies, no telemetry, no ads.
 
-Nooklin is built on a simple premise: your devices should talk to each other without needing a corporate middleman in between.
+Nooklin is built on a simple premise: your services and devices should talk to each other without needing a big-tech middleman in between.
 
 ## Apps
 
 | App | Description | Status |
 |---|---|---|
-| [AirSync](https://github.com/Nooklin/airsync) | Streams system audio to AirPlay receivers (AirPort Express, Apple TV) over your local network — no Google Cast, no cloud. | Active development |
-| Music Player | A native music player with built-in AirPlay output, using the shared `airplay-core` engine. | In development |
+| [AirSync](https://github.com/Nooklin/airsync) | Streams system audio to AirPlay receivers over your local network. No Google and no cloud. | Active development |
+| [Music Player](https://github.com/Nooklin/music-player) | A native music player with built-in AirPlay streaming. | In development |
 
 ## License
 
