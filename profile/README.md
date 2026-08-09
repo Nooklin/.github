@@ -8,7 +8,7 @@ Nooklin is built on a simple premise: your services and devices should talk to e
 
 | App | Description | Status |
 |---|---|---|
-| [AirSync](https://github.com/Nooklin/airsync) | Streams system audio to AirPlay receivers over your local network. No Google and no cloud. | Active development |
+| [AirSync](https://github.com/Nooklin/airsync) | Streams system audio to AirPlay receivers over your local network. Privacy focused, No Apple or Google telemetry or logging. | Active development |
 | [Music Player](https://github.com/Nooklin/music-player) | A native music player with built-in AirPlay streaming. | Future development |
 
 ## License
