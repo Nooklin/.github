@@ -1,20 +1,22 @@
 # Welcome to Nooklin!
 
-Free and privacy focused open-source Android apps for the self-hosting and tech enthusiast community. No Google Play Services dependencies, no telemetry, no ads.
+Nooklin is a growing suite of free, open-source Android apps with a little IOS design influence built for people who'd rather self-host than subscribe, and who want their tech to work *for* them, not report on them. No Play Services dependencies. No telemetry. No ads. Ever.
 
-Nooklin is built on a simple premise: your services and devices should talk to each other without needing a big-tech middleman in between.
+Our journey started during a switch from iOS to Android. We missed some of iOS's features and designs, so Nooklin apps take some inspiration from iOS but without the walled garden or the data collection that comes with it. 
 
 ## Apps
 
 | App | Description | Status |
 |---|---|---|
-| [AirSync](https://github.com/Nooklin/airsync) | Streams system audio to AirPlay receivers over your local network. Privacy focused, No Apple or Google telemetry or logging. | Active development |
-| [Music Player](https://github.com/Nooklin/music-player) | A native music player with built-in AirPlay streaming. | Future development |
+| AirSync | Streams system audio to AirPlay receivers over your local network. Privacy focused, no Apple or Google telemetry/logging. | Active development |
+| Music Player | A native music player with built-in AirPlay support. | Future development |
 
 ## License
 
-All Nooklin apps are released under [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html). Free to use, free to modify — and any derivative work stays free too.
+All Nooklin apps are released under GPL-3.0. Free to use, free to modify and any derivative work stays free too.
 
 ## Get involved
 
-Issues and pull requests are welcome on individual app repositories. See each repo's `CONTRIBUTING.md` for guidelines.
+Found a bug or have an idea? Open an issue or pull request on the relevant app's repository and check its `CONTRIBUTING.md` for specifics before diving in.
+
+Have a question, or just want to say hi? Reach out at [info@nooklin.org](mailto:info@nooklin.org).
