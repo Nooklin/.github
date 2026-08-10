@@ -1,4 +1,4 @@
-# Nooklin
+# Welcome to Nooklin!
 
 Free and privacy focused open-source Android apps for the self-hosting and tech enthusiast community. No Google Play Services dependencies, no telemetry, no ads.
 
