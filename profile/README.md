@@ -6,11 +6,11 @@ Our journey started during a switch from iOS to Android. We missed some of iOS's
 
 ## Apps
 
-| App | Description | Status |
-|---|---|---|
-| [AirSync](https://github.com/Nooklin/airsync) | Streams system audio to AirPlay receivers over your local network. Privacy focused, no Apple or Google telemetry/logging. | Active development |
-| [Photo's](https://github.com/Nooklin/photos) | Photo's app with various features. | Active development |
-| Music Player | A native music player with built-in AirPlay support. | Future development |
+| Icon | App | Description | Status |
+|---|---|---|---|
+| <img src=https://github.com/Nooklin/photos/main/src/icon.png width="48"> | [AirSync](https://github.com/Nooklin/airsync) | Streams system audio to AirPlay receivers over your local network. Privacy focused, no Apple or Google telemetry/logging. | Active development |
+| <img src=https://github.com/Nooklin/photos/main/src/icon.png width="48"> | [Photo's](https://github.com/Nooklin/photos) | Photo's app with various features. | Active development |
+| <img src=https://github.com/Nooklin/photos/main/src/icon.png width="48"> | Music Player | A native music player with built-in AirPlay support. | Future development |
 
 ## License
 
