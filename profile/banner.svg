@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Nooklin: your tech should work for you, not report on you">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2A1F1D"/>
+      <stop offset="1" stop-color="#43332E"/>
+    </linearGradient>
+    <linearGradient id="mark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F2B84B"/>
+      <stop offset="1" stop-color="#E2603B"/>
+    </linearGradient>
+    <radialGradient id="g1" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#F2B84B" stop-opacity="0.34"/>
+      <stop offset="0.6" stop-color="#E2603B" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#E2603B" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="320" rx="26" fill="url(#bg)"/>
+  <ellipse cx="600" cy="-10" rx="520" ry="260" fill="url(#g1)"/>
+  <rect x="2" y="2" width="1196" height="316" rx="24" fill="none" stroke="#FFF4E6" stroke-opacity="0.14" stroke-width="2"/>
+  <rect x="388" y="50" width="84" height="84" rx="24" fill="url(#mark)"/>
+  <text x="430" y="111" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="800" fill="#FFF4E6">N</text>
+  <text x="492" y="118" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="80" font-weight="800" fill="#FFF4E6" letter-spacing="-2">Nooklin</text>
+  <text x="600" y="206" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="700" fill="#FFF4E6">Your tech should work <tspan fill="#F2B84B">for you</tspan>, not report on you.</text>
+  <text x="600" y="262" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#FFF4E6" fill-opacity="0.72" letter-spacing="3">NO PLAY SERVICES   <tspan fill="#E2603B">•</tspan>   NO TELEMETRY   <tspan fill="#E2603B">•</tspan>   NO ADS</text>
+</svg>
