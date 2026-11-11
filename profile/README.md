@@ -74,23 +74,45 @@
 <div align="center">
 <table align="center">
   <tr align="center">
+    <td align="center" width="50%">
+      <a href="https://github.com/Nooklin/Music"><img src="https://github.com/Nooklin/Music/blob/main/app/src/main/res/drawable-nodpi/ic_launcher_art.png?raw=true" width="80" height="80" alt="Music icon" /></a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Nooklin/Photos"><img src="https://github.com/Nooklin/Photos/blob/main/fastlane/metadata/android/en-US/images/icon.png?raw=true" width="80" height="80" alt="Photos icon" /></a>
+    </td>
+  </tr>
+  <tr align="center">
+    <td align="center" width="50%">
+      <div align="center"><h3 align="center"><a href="https://github.com/Nooklin/Music">Music</a></h3></div>
+    </td>
+    <td align="center" width="50%">
+      <div align="center"><h3 align="center"><a href="https://github.com/Nooklin/Photos">Photo's</a></h3></div>
+      </td>
+  </tr>
+  <tr align="center">
     <td align="center" width="50%" valign="top">
-      <a href="https://github.com/Nooklin/Music"><img src="https://github.com/Nooklin/Music/blob/main/app/src/main/res/drawable-nodpi/ic_launcher_art.png?raw=true" width="72" height="72" alt="Music icon" /></a>
-      <h3 align="center"><a href="https://github.com/Nooklin/Music">Music</a></h3>
       <p align="center">A Navidrome music player with built-in AirPlay support.</p>
-      <a href="https://github.com/Nooklin/Music/releases/latest"><img src="https://img.shields.io/github/v/release/Nooklin/Music?include_prereleases&label=release&style=flat-square&labelColor=2A1F1D&color=C98A1F" alt="Latest release" /></a>
-      <img src="https://img.shields.io/badge/status-Active%20development-F2B84B?style=flat-square&labelColor=2A1F1D" alt="Active development" />
-      <br /><br />
-      <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/Nooklin/Music"><img src="https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/badge_obtainium.png?raw=true" alt="Get Music on Obtainium" height="60"></a>
     </td>
     <td align="center" width="50%" valign="top">
-      <a href="https://github.com/Nooklin/Photos"><img src="https://github.com/Nooklin/Photos/blob/main/fastlane/metadata/android/en-US/images/icon.png?raw=true" width="72" height="72" alt="Photos icon" /></a>
-      <h3 align="center"><a href="https://github.com/Nooklin/Photos">Photos</a></h3>
       <p align="center">A privacy-focused, offline photo gallery. On-device face recognition, a Hidden section and backup export.</p>
+    </td>
+  </tr>
+  <tr align="center">
+    <td align="center" width="50%">
+      <a href="https://github.com/Nooklin/Music/releases/latest"><img src="https://img.shields.io/github/v/release/Nooklin/Music?include_prereleases&label=release&style=flat-square&labelColor=2A1F1D&color=C98A1F" alt="Latest release" /></a>
+      <img src="https://img.shields.io/badge/status-Active%20development-F2B84B?style=flat-square&labelColor=2A1F1D" alt="Active development" />
+    </td>
+    <td align="center" width="50%">
       <a href="https://github.com/Nooklin/Photos/releases/latest"><img src="https://img.shields.io/github/v/release/Nooklin/Photos?include_prereleases&label=release&style=flat-square&labelColor=2A1F1D&color=C98A1F" alt="Latest release" /></a>
       <img src="https://img.shields.io/badge/status-Active%20development-F2B84B?style=flat-square&labelColor=2A1F1D" alt="Active development" />
-      <br /><br />
-      <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/Nooklin/Photos"><img src="https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/badge_obtainium.png?raw=true" alt="Get Photos on Obtainium" height="60"></a>
+    </td>
+  </tr>
+  <tr align="center">
+    <td align="center" width="50%">
+      <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/Nooklin/Music"><img src="https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/badge_obtainium.png?raw=true" alt="Get Music on Obtainium" height="80"></a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/Nooklin/Photos"><img src="https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/badge_obtainium.png?raw=true" alt="Get Photos on Obtainium" height="80"></a>
     </td>
   </tr>
 </table>
