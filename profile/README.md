@@ -19,7 +19,6 @@
 
 <p align="center">
   <a href="#-apps"><img src="https://img.shields.io/badge/Apps-2A1F1D?style=for-the-badge" alt="Apps" /></a>
-  <a href="#-install"><img src="https://img.shields.io/badge/Install-2A1F1D?style=for-the-badge" alt="Install" /></a>
   <a href="#-support-nooklin"><img src="https://img.shields.io/badge/Support-2A1F1D?style=for-the-badge" alt="Support" /></a>
   <a href="#-get-involved"><img src="https://img.shields.io/badge/Get%20involved-2A1F1D?style=for-the-badge" alt="Get%20involved" /></a>
 </p>
@@ -81,6 +80,8 @@
       <p align="center">A Navidrome music player with built-in AirPlay support.</p>
       <a href="https://github.com/Nooklin/Music/releases/latest"><img src="https://img.shields.io/github/v/release/Nooklin/Music?include_prereleases&label=release&style=flat-square&labelColor=2A1F1D&color=C98A1F" alt="Latest release" /></a>
       <img src="https://img.shields.io/badge/status-Active%20development-F2B84B?style=flat-square&labelColor=2A1F1D" alt="Active development" />
+      <br /><br />
+      <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/Nooklin/Music"><img src="https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/badge_obtainium.png?raw=true" alt="Get Music on Obtainium" height="48"></a>
     </td>
     <td align="center" width="50%" valign="top">
       <a href="https://github.com/Nooklin/Photos"><img src="https://github.com/Nooklin/Photos/blob/main/fastlane/metadata/android/en-US/images/icon.png?raw=true" width="72" height="72" alt="Photos icon" /></a>
@@ -88,6 +89,8 @@
       <p align="center">A privacy-focused, offline photo gallery. On-device face recognition, a Hidden section and backup export.</p>
       <a href="https://github.com/Nooklin/Photos/releases/latest"><img src="https://img.shields.io/github/v/release/Nooklin/Photos?include_prereleases&label=release&style=flat-square&labelColor=2A1F1D&color=C98A1F" alt="Latest release" /></a>
       <img src="https://img.shields.io/badge/status-Active%20development-F2B84B?style=flat-square&labelColor=2A1F1D" alt="Active development" />
+      <br /><br />
+      <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/Nooklin/Photos"><img src="https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/badge_obtainium.png?raw=true" alt="Get Photos on Obtainium" height="48"></a>
     </td>
   </tr>
 </table>
@@ -139,27 +142,6 @@
       <h3 align="center">Wallpaper</h3>
       <p align="center">A wallpaper app with iOS-inspired wallpaper features.</p>
       <img src="https://img.shields.io/badge/status-In%20development-E2603B?style=flat-square&labelColor=2A1F1D" alt="In development" />
-    </td>
-  </tr>
-</table>
-</div>
-
-<p align="center"><img src="https://raw.githubusercontent.com/Nooklin/.github/main/profile/assets/divider.svg" width="100%" height="6" alt="" /></p>
-
-<h2 align="center">📥 Install</h2>
-
-<p align="center">Nooklin apps are installed and updated through <a href="https://github.com/ImranR98/Obtainium">Obtainium</a>, so you get new releases straight from GitHub without an app store. Tap a badge on your phone with Obtainium installed.</p>
-
-<div align="center">
-<table align="center">
-  <tr align="center">
-    <td align="center" width="50%">
-      <b>Music</b><br /><br />
-      <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/Nooklin/Music"><img src="https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/badge_obtainium.png" alt="Get Music on Obtainium" height="48"></a>
-    </td>
-    <td align="center" width="50%">
-      <b>Photos</b><br /><br />
-      <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/Nooklin/Photos"><img src="https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/badge_obtainium.png" alt="Get Photos on Obtainium" height="48"></a>
     </td>
   </tr>
 </table>
