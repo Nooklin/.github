@@ -30,13 +30,13 @@ Your tech should work for you, not report on you. Nooklin makes free, privacy fo
 
 | Icon | App | Description | Status |
 |---|---|---|---|
-| <img src="https://github.com/Nooklin/Photos/blob/main/fastlane/metadata/android/en-US/images/icon.png" width="48"> | [AirSync](https://github.com/Nooklin/airsync) | Streams system audio to AirPlay receivers over your local network. Privacy focused, no Apple or Google telemetry/logging. | Active development |
+| <img src="https://github.com/Nooklin/Photos/blob/main/fastlane/metadata/android/en-US/images/icon.png" width="48"> | AirSync | Streams system audio to AirPlay receivers over your local network. Privacy focused, no Apple or Google telemetry/logging. | Active development |
 | | Calendar | A privacy-focused calendar app. | In development |
 | | Camera | A privacy-focused camera app. | In development |
 | | Contacts | A privacy-focused contacts app. | In development |
 | | Files | A privacy-focused file manager. | In development |
-| <img src="https://github.com/Nooklin/Music/blob/main/app/src/main/res/drawable-nodpi/ic_launcher_art.png" width="48"> | [Music](https://github.com/Nooklin/music) | A navidrome music player with built-in AirPlay support. | Future development |
-| <img src="https://github.com/Nooklin/Photos/blob/main/fastlane/metadata/android/en-US/images/icon.png" width="48"> | [Photo's](https://github.com/Nooklin/photos) | A privacy-focused, offline photo gallery. On-device face recognition, a Hidden section and backup export. | Active development |
+| <img src="https://github.com/Nooklin/Music/blob/main/app/src/main/res/drawable-nodpi/ic_launcher_art.png" width="48"> | [Music Player](https://github.com/Nooklin/music) | A native music player with built-in AirPlay support. | <a href="https://github.com/Nooklin/music/releases/latest"><img src="https://img.shields.io/github/v/release/Nooklin/music?include_prereleases&label=release" alt="Latest release"></a><br>Future development |
+| <img src="https://github.com/Nooklin/Photos/blob/main/fastlane/metadata/android/en-US/images/icon.png" width="48"> | [Photo's](https://github.com/Nooklin/photos) | A privacy-focused, offline photo gallery. On-device face recognition, a Hidden section and backup export. | <a href="https://github.com/Nooklin/photos/releases/latest"><img src="https://img.shields.io/github/v/release/Nooklin/photos?include_prereleases&label=release" alt="Latest release"></a><br>Active development |
 | | Wallpaper | A wallpaper app with iOS-inspired wallpaper features. | In development |
 
 ## Install
