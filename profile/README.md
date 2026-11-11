@@ -155,11 +155,11 @@
   <tr align="center">
     <td align="center" width="50%">
       <b>Music</b><br /><br />
-      <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/Nooklin/Music"><img src="https://raw.githubusercontent.com/Nooklin/.github/main/profile/assets/badge_obtainium.png" alt="Get Music on Obtainium" height="48"></a>
+      <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/Nooklin/Music"><img src="https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/badge_obtainium.png" alt="Get Music on Obtainium" height="48"></a>
     </td>
     <td align="center" width="50%">
       <b>Photos</b><br /><br />
-      <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/Nooklin/Photos"><img src="https://raw.githubusercontent.com/Nooklin/.github/main/profile/assets/badge_obtainium.png" alt="Get Photos on Obtainium" height="48"></a>
+      <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/Nooklin/Photos"><img src="https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/badge_obtainium.png" alt="Get Photos on Obtainium" height="48"></a>
     </td>
   </tr>
 </table>
