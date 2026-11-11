@@ -10,7 +10,7 @@ Our journey started during a switch from iOS to Android. We missed some of iOS's
 |---|---|---|---|
 | <img src=https://github.com/Nooklin/photos/main/src/icon.png width="48"> | [AirSync](https://github.com/Nooklin/airsync) | Streams system audio to AirPlay receivers over your local network. Privacy focused, no Apple or Google telemetry/logging. | Active development |
 | <img src="https://github.com/Nooklin/Photos/blob/main/fastlane/metadata/android/en-US/images/icon.png" width="128"> | [Photo's](https://github.com/Nooklin/photos) | A photo and video gallery that stays on your device. No internet permission, no telemetry, no Google Play Services. Hide photos behind biometrics or a PIN, strip location and other metadata before sharing, and group people and pets entirely on-device. | Active development |
-| <img src=https://github.com/Nooklin/photos/main/src/icon.png width="48"> | [Photo's](https://github.com/Nooklin/music) | Open-source Android music player for your own Navidrome server. Offline downloads, playlists, synced lyrics, AutoMix transitions and AirPlay output to speakers and Apple TV. No Google services, no tracking, no ads. | Coming Soon |
+| <img src=https://github.com/Nooklin/photos/main/src/icon.png width="48"> | [Music](https://github.com/Nooklin/music) | Open-source Android music player for your own Navidrome server. Offline downloads, playlists, synced lyrics, AutoMix transitions and AirPlay output to speakers and Apple TV. No Google services, no tracking, no ads. | Coming Soon |
 
 ## License
 
