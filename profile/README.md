@@ -86,7 +86,7 @@
       <div align="center"><h3 align="center"><a href="https://github.com/Nooklin/Music">Music</a></h3></div>
     </td>
     <td align="center" width="50%">
-      <div align="center"><h3 align="center"><a href="https://github.com/Nooklin/Photos">Photo's</a></h3></div>
+      <div align="center"><h3 align="center"><a href="https://github.com/Nooklin/Photos">Photos</a></h3></div>
       </td>
   </tr>
   <tr align="center">
