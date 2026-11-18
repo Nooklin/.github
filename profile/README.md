@@ -87,7 +87,7 @@
     </td>
     <td align="center" width="50%">
       <div align="center"><h3 align="center"><a href="https://github.com/Nooklin/Photos">Photos</a></h3></div>
-      </td>
+    </td>
   </tr>
   <tr align="center">
     <td align="center" width="50%" valign="top">
@@ -115,6 +115,48 @@
       <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/Nooklin/Photos"><img src="https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/badge_obtainium.png?raw=true" alt="Get Photos on Obtainium" height="80"></a>
     </td>
   </tr>
+  <tr align="center">
+    <td align="center" width="50%">
+      <a href="https://github.com/Nooklin/Calendar"><img src="https://raw.githubusercontent.com/Nooklin/.github/main/profile/assets/icon-calendar.svg" width="80" height="80" alt="Calendar icon" /></a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Nooklin/Files"><img src="https://raw.githubusercontent.com/Nooklin/.github/main/profile/assets/icon-files.svg" width="80" height="80" alt="Files icon" /></a>
+    </td>
+  </tr>
+  <tr align="center">
+    <td align="center" width="50%">
+      <div align="center"><h3 align="center"><a href="https://github.com/Nooklin/Calendar">Calendar</a></h3></div>
+    </td>
+    <td align="center" width="50%">
+      <div align="center"><h3 align="center"><a href="https://github.com/Nooklin/Files">Files</a></h3></div>
+    </td>
+  </tr>
+  <tr align="center">
+    <td align="center" width="50%" valign="top">
+      <p align="center">A privacy-focused calendar app.</p>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <p align="center">A privacy-focused file manager.</p>
+    </td>
+  </tr>
+  <tr align="center">
+    <td align="center" width="50%">
+      <a href="https://github.com/Nooklin/Calendar/releases/latest"><img src="https://img.shields.io/github/v/release/Nooklin/Calendar?include_prereleases&label=release&style=flat-square&labelColor=2A1F1D&color=C98A1F" alt="Latest release" /></a>
+      <img src="https://img.shields.io/badge/status-Active%20development-F2B84B?style=flat-square&labelColor=2A1F1D" alt="Active development" />
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Nooklin/Files/releases/latest"><img src="https://img.shields.io/github/v/release/Nooklin/Files?include_prereleases&label=release&style=flat-square&labelColor=2A1F1D&color=C98A1F" alt="Latest release" /></a>
+      <img src="https://img.shields.io/badge/status-Active%20development-F2B84B?style=flat-square&labelColor=2A1F1D" alt="Active development" />
+    </td>
+  </tr>
+  <tr align="center">
+    <td align="center" width="50%">
+      <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/Nooklin/Calendar"><img src="https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/badge_obtainium.png?raw=true" alt="Get Calendar on Obtainium" height="80"></a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/Nooklin/Files"><img src="https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/badge_obtainium.png?raw=true" alt="Get Files on Obtainium" height="80"></a>
+    </td>
+  </tr>
 </table>
 </div>
 
@@ -132,31 +174,17 @@
       <img src="https://img.shields.io/badge/status-In%20development-E2603B?style=flat-square&labelColor=2A1F1D" alt="In development" />
     </td>
     <td align="center" width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Nooklin/.github/main/profile/assets/icon-calendar.svg" width="72" height="72" alt="Calendar icon" />
-      <h3 align="center">Calendar</h3>
-      <p align="center">A privacy-focused calendar app.</p>
-      <img src="https://img.shields.io/badge/status-In%20development-E2603B?style=flat-square&labelColor=2A1F1D" alt="In development" />
-    </td>
-  </tr>
-  <tr align="center">
-    <td align="center" width="50%" valign="top">
       <img src="https://raw.githubusercontent.com/Nooklin/.github/main/profile/assets/icon-camera.svg" width="72" height="72" alt="Camera icon" />
       <h3 align="center">Camera</h3>
       <p align="center">A privacy-focused camera app.</p>
       <img src="https://img.shields.io/badge/status-In%20development-E2603B?style=flat-square&labelColor=2A1F1D" alt="In development" />
     </td>
+  </tr>
+  <tr align="center">
     <td align="center" width="50%" valign="top">
       <img src="https://raw.githubusercontent.com/Nooklin/.github/main/profile/assets/icon-contacts.svg" width="72" height="72" alt="Contacts icon" />
       <h3 align="center">Contacts</h3>
       <p align="center">A privacy-focused contacts app.</p>
-      <img src="https://img.shields.io/badge/status-In%20development-E2603B?style=flat-square&labelColor=2A1F1D" alt="In development" />
-    </td>
-  </tr>
-  <tr align="center">
-    <td align="center" width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Nooklin/.github/main/profile/assets/icon-files.svg" width="72" height="72" alt="Files icon" />
-      <h3 align="center">Files</h3>
-      <p align="center">A privacy-focused file manager.</p>
       <img src="https://img.shields.io/badge/status-In%20development-E2603B?style=flat-square&labelColor=2A1F1D" alt="In development" />
     </td>
     <td align="center" width="50%" valign="top">
