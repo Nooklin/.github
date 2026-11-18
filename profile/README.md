@@ -117,10 +117,10 @@
   </tr>
   <tr align="center">
     <td align="center" width="50%">
-      <a href="https://github.com/Nooklin/Calendar"><img src="https://raw.githubusercontent.com/Nooklin/.github/main/profile/assets/icon-calendar.svg" width="80" height="80" alt="Calendar icon" /></a>
+      <a href="https://github.com/Nooklin/Calendar"><img src="https://github.com/Nooklin/Calendar/blob/main/fastlane/metadata/android/en-US/images/icon.png?raw=true" width="80" height="80" alt="Calendar icon" /></a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Nooklin/Files"><img src="https://raw.githubusercontent.com/Nooklin/.github/main/profile/assets/icon-files.svg" width="80" height="80" alt="Files icon" /></a>
+      <a href="https://github.com/Nooklin/Files"><img src="https://github.com/Nooklin/Files/blob/main/fastlane/metadata/android/en-US/images/icon.png?raw=true" width="80" height="80" alt="Files icon" /></a>
     </td>
   </tr>
   <tr align="center">
